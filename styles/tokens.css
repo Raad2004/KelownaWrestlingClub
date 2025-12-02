@@ -1,0 +1,17 @@
+/* Design tokens for Kelowna Wrestling Club */
+/* These can be used to extend Tailwind's default theme */
+
+:root {
+  /* Brand Colors */
+  --kwc-red: #dc2626;
+  --kwc-red-dark: #b91c1c;
+  --kwc-slate-dark: #0f172a;
+  --kwc-slate-light: #f8fafc;
+  
+  /* Spacing */
+  --section-padding: 5rem;
+  
+  /* Typography */
+  --heading-font: system-ui, -apple-system, sans-serif;
+}
+
